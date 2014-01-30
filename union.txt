@@ -1,0 +1,11 @@
+"union"
+{
+	"base"		"base"
+	"title"		"Union - faggots only"
+	"version"	"1"
+	"menusystem" "1"
+
+	"author_name"	"Shinycow"
+	"author_email"	""
+	"author_url"	"facepunch.com"
+}
